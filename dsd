@@ -1,0 +1,6 @@
+git chekout -b feature-ismael
+git branch
+main ?
+git add
+git conmit -m "adicionando parte da Sarah
+git push -u origin feature-ismael
